@@ -7,8 +7,6 @@ using namespace std;
 int main(){
     int y,x,r=0;
 
-    //Modificado
-
     cout <<"Dime el numero x"<<endl;
     cin>>x;
     cout <<"Dime el numero y"<<endl;
